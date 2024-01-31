@@ -1,0 +1,71 @@
+// System Configuration
+color: #111827;
+ font-size: 24px;
+ font-family: Roboto;
+ font-weight: 600;
+ line-height: 32px;
+ word-wrap: break-word
+---
+// CPU Cores
+color: #374151;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Enter number of CPU cores
+color: #B2B2B2;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Memory Allocation (GB)
+color: #374151;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Enter memory in GB
+color: #B2B2B2;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Storage Type
+color: #374151;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// on
+color: black;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Enable High Performance Mode
+color: #374151;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Save Configuration
+color: white;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word
